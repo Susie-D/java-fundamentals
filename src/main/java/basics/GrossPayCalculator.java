@@ -18,4 +18,3 @@ public class GrossPayCalculator {
         System.out.println("Gross Pay: " + payRate);
     }
 }
-`
