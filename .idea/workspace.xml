@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="696c38c2-8d6d-4573-a39b-e819e62167a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/GradeMessage_SwitchExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/GrossPayInputValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.GradeMessage.executor": "Run",
+    "Application.GradeMessage_SwitchExpressions.executor": "Run",
     "Application.GrossPayCalculator.executor": "Run",
+    "Application.GrossPayInputValidation.executor": "Run",
     "Application.QuotaCalculator.executor": "Run",
     "Application.SalaryCalculator.executor": "Run",
     "Application.TestResults.executor": "Run",
@@ -47,7 +50,12 @@
     "onboarding.tips.debug.path": "/Users/sdouang/Projects/frontend-masters/java-fundamentals/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GradeMessage_SwitchExpressions">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="decision_structure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GrossPayInputValidation">
     <configuration name="GradeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="decision_structure.GradeMessage" />
       <module name="java-fundamentals" />
@@ -74,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GrossPayInputValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.GrossPayInputValidation" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="decision_structure.TestResults" />
       <module name="java-fundamentals" />
@@ -89,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GrossPayInputValidation" />
         <item itemvalue="Application.GradeMessage_SwitchExpressions" />
         <item itemvalue="Application.GradeMessage" />
         <item itemvalue="Application.TestResults" />
@@ -113,6 +135,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/loops/GrossPayInputValidation.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
