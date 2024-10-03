@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="696c38c2-8d6d-4573-a39b-e819e62167a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/GradeMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/TestResults.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decision_structure/GradeMessage_SwitchExpressions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +26,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2m1iu48Ddu0S1dI9dZirIk3NTIN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,9 +47,22 @@
     "onboarding.tips.debug.path": "/Users/sdouang/Projects/frontend-masters/java-fundamentals/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GradeMessage">
+  <component name="RunManager" selected="Application.GradeMessage_SwitchExpressions">
     <configuration name="GradeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="decision_structure.GradeMessage" />
+      <module name="java-fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decision_structure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeMessage_SwitchExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decision_structure.GradeMessage_SwitchExpressions" />
       <module name="java-fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -76,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradeMessage_SwitchExpressions" />
         <item itemvalue="Application.GradeMessage" />
         <item itemvalue="Application.TestResults" />
       </list>
