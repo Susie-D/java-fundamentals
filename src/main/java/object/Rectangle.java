@@ -1,13 +1,13 @@
 package object;
 
-public class Retangle {
+public class Rectangle {
 
     private double length;
     private double width;
     private int sides = 4;
 
     public double calculatePerimeter() {
-        return (2 * length) + (2 * w);
+        return (2 * length) + (2 * width);
     }
 
     public double calculateArea() {
@@ -37,4 +37,3 @@ public class Retangle {
     public void setSides(int sides) {
         this.sides = sides;
     }
-}

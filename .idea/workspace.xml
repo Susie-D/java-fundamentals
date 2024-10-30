@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="696c38c2-8d6d-4573-a39b-e819e62167a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/object/Retangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/HomeAreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/object/Retangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/object/r.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Susie-D/java-fundamentals.git",
+    "accountId": "726f4fbc-5b2c-4c2f-b079-a771d953324e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
