@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="696c38c2-8d6d-4573-a39b-e819e62167a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/LotteryTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="696c38c2-8d6d-4573-a39b-e819e62167a2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +61,7 @@
     "Application.GrossPayInputValidation.executor": "Run",
     "Application.HomeAreaCalculator.executor": "Run",
     "Application.InstantCreditCheck.executor": "Run",
+    "Application.LotteryTicket.executor": "Run",
     "Application.QuotaCalculator.executor": "Run",
     "Application.SalaryCalculator.executor": "Run",
     "Application.TestResults.executor": "Run",

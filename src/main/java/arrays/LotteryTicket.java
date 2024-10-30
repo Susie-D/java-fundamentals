@@ -20,7 +20,7 @@ public class LotteryTicket {
         for(int i=0; i < LENGTH; i++) {
             int randomNumber;
             do {
-                randomNumber = random.nextInt(1, MAX_TICKET_NUMBER);
+                randomNumber = random.nextInt((MAX_TICKET_NUMBER) + 1);
             }
             while (search(ticket, randomNumber));
                     ticket[i] = randomNumber;
