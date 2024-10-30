@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="696c38c2-8d6d-4573-a39b-e819e62167a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/methods/GreetUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/methods/InstantCreditCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/object/Retangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,7 @@
     "Application.GreetUser.executor": "Run",
     "Application.GrossPayCalculator.executor": "Run",
     "Application.GrossPayInputValidation.executor": "Run",
+    "Application.InstantCreditCheck.executor": "Run",
     "Application.QuotaCalculator.executor": "Run",
     "Application.SalaryCalculator.executor": "Run",
     "Application.TestResults.executor": "Run",
